@@ -1,5 +1,5 @@
 #
-# MT7621 Profiles
+# K2P Profiles
 #
 
 DEFAULT_SOC := mt7621
